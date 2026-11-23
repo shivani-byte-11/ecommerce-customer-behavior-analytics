@@ -6,7 +6,7 @@ Learner: Shivani · ABES Engineering College
 Analysis of 500 e-commerce clickstream sessions: conversion funnel, page/device behaviour, time on page, data-quality audit, hypothesis tests and a predictive check.
 
 ## Live dashboard
-Streamlit app: **<PASTE YOUR STREAMLIT LINK HERE>**
+Streamlit app: **<https://ecommerce-customer-behavior-analytics-alozebnhqjqcw6eaordr6f.streamlit.app/>**
 
 ## Key findings
 - Add-to-cart rate **35.0%** (matches the 35% reference); cart → purchase **18.3%** vs 68% reference.
